@@ -7,7 +7,7 @@
         "gender": "",
         "brand": "adidas",
         "model": "Ozweego",
-        "img":"src/photo/ozweego_b.png",
+        "img":"src/photo/ozweego.png",
         "coments": 30,
         "color": "",
         "price": 18900,
@@ -22,7 +22,7 @@
         "gender": "",
         "brand": "adidas",
         "model": "Ozmillen",
-        "img": "src/photo/ozmillen_b.png",
+        "img": "src/photo/ozmillen.png",
         "coments": 124,
         "price": 18900,
         "quant": 12
@@ -35,7 +35,7 @@
         "gender": "",
         "brand": "adidas",
         "model": "Gazelle",
-        "img": "src/photo/gazelle_b.png",
+        "img": "src/photo/gazelle.png",
         "coments": 77,
         "price": 18900,
         "newprice": 15900,
@@ -49,7 +49,7 @@
         "gender": "",
         "brand": "adidas",
         "model": "Supernova Cushion 7",
-        "img": "src/photo/supernovacushion7_b.png",
+        "img": "src/photo/supernovacushion7.png",
         "coments": 47,
         "price": 18900,
         "quant": 6
@@ -62,7 +62,7 @@
         "gender": "",
         "brand": "adidas",
         "model": "Campus 00s",
-        "img": "src/photo/campus00s.jpeg",
+        "img": "src/photo/campus00s.png",
         "coments": 64,
         "price": 18900,
         "quant": 6
@@ -75,7 +75,7 @@
         "gender": "",
         "brand": "adidas",
         "model": "Ozelia",
-        "img": "src/photo/ozelia.jpeg",
+        "img": "src/photo/ozelia.png",
         "coments": 312,
         "price": 18900,
         "quant": 6
@@ -88,7 +88,7 @@
         "gender": "",
         "brand": "puma",
         "model": "Suede XL",
-        "img": "src/photo/psuedexl.jpeg",
+        "img": "src/photo/psuedexl.png",
         "coments": 9,
         "price": 18900,
         "quant": 6
@@ -101,7 +101,7 @@
         "gender": "",
         "brand": "puma",
         "model": "RS-X Suede",
-        "img": "src/photo/prsxsuede.jpeg",
+        "img": "src/photo/prsxsuede.png",
 
         "coments": 0,
         "price": 18900,
@@ -115,7 +115,7 @@
         "gender": "",
         "brand": "puma",
         "model": "180",
-        "img": "src/photo/p180.jpeg",
+        "img": "src/photo/p180.png",
         "coments": 28,
         "price": 14999,
         "quant": 6
@@ -129,7 +129,7 @@
         "brand": "puma",
         "model": "Slipstream Neverworn III",
         "coments": 81,
-        "img": "src/photo/sn3.jpeg",
+        "img": "src/photo/sn3.png",
         "price": 14999,
         "quant": 6
     },
@@ -141,7 +141,7 @@
         "gender": "",
         "brand": "puma",
         "model": "Palermo Leather",
-        "img": "src/photo/palermoleather.jpeg",
+        "img": "src/photo/palermoleather.png",
         "coments": 162,
         "price": 12999,
         "quant": 6
@@ -154,7 +154,7 @@
         "gender": "",
         "brand": "puma",
         "model": "Blktop Rider",
-        "img": "src/photo/blktoprider.jpeg",
+        "img": "src/photo/blktoprider.png",
         "coments": 3,
         "price": 13999,
         "quant": 6
@@ -167,7 +167,7 @@
         "gender": "",
         "brand": "nike",
         "model": "Blazer Low 77 Jumbo",
-        "img": "src/photo/blazerlow77jumbo.jpeg",
+        "img": "src/photo/blazerlow77jumbo.png",
         "coments": 76,
         "price": 16999,
         "quant": 6
@@ -180,7 +180,7 @@
         "gender": "",
         "brand": "nike",
         "model": "Blazer Mid Pro Club",
-        "img": "src/photo/blazermidproclub.jpeg",
+        "img": "src/photo/blazermidproclub.png",
         "coments": 54,
         "price": 18999,
         "quant": 6
@@ -193,7 +193,7 @@
         "gender": "",
         "brand": "nike",
         "model": "Lebron Witness 8",
-        "img": "src/photo/lebronwitness8.jpeg",
+        "img": "src/photo/lebronwitness8.png",
         "coments": 98,
         "price": 18999,
         "quant": 6
@@ -206,7 +206,7 @@
         "gender": "",
         "brand": "nike",
         "model": "Air Flight Lite Mid",
-        "img": "src/photo/airflightlite.jpeg",
+        "img": "src/photo/airflightlite.png",
         "coments": 87,
         "price": 18999,
         "quant": 6
@@ -219,7 +219,7 @@
         "gender": "",
         "brand": "nike",
         "model": "Zoom Vomero 5",
-        "img": "src/photo/zoomvomero5.jpeg",
+        "img": "src/photo/zoomvomero5.png",
         "coments": 231,
         "price": 18900,
         "quant": 6
@@ -232,7 +232,7 @@
         "gender": "",
         "brand": "nike",
         "model": "Air Dunk Jumbo",
-        "img": "src/photo/airdunkjumbo.jpeg",
+        "img": "src/photo/airdunkjumbo.png",
         "coments": 433,
         "price": 18900,
         "quant": 6
@@ -245,7 +245,7 @@
         "gender": "",
         "brand": "reebok",
         "model": "Club C Revenge",
-        "img": "src/photo/clubcrevenge.jpeg",
+        "img": "src/photo/clubcrevenge.png",
         "coments": 23,
         "price": 18900,
         "quant": 6
@@ -258,7 +258,7 @@
         "gender": "",
         "brand": "reebok",
         "model": "BB 4000 II",
-        "img": "src/photo/bb4002.jpeg",
+        "img": "src/photo/bb4002.png",
         "coments": 31,
         "price": 13990,
         "quant": 6
@@ -271,7 +271,7 @@
         "gender": "",
         "brand": "reebok",
         "model": "Floatzig 1",
-        "img": "src/photo/floatzig1.jpeg",
+        "img": "src/photo/floatzig1.png",
         "coments": 13,
         "price": 14999,
         "quant": 6
@@ -283,8 +283,22 @@
         "type": "", 
         "gender": "",
         "brand": "reebok",
-        "model": " Atr Pump Vertical",
-        "img": "src/photo/atrpunpvertical.jpeg",
+        "model": "Atr Pump Vertical",
+        "img": "src/photo/atrpunpvertical.png",
+        "coments": 123,
+        "rate": 3,
+        "price": 14999,
+        "quant": 6
+    },
+    {
+        "id": 23,
+        "name": "",
+        "desc": "", 
+        "type": "", 
+        "gender": "",
+        "brand": "adidas",
+        "model": "Niteball",
+        "img": "src/photo/nigthball.png",
         "coments": 123,
         "rate": 3,
         "price": 14999,
