@@ -90,7 +90,7 @@
         "model": "Suede XL",
         "img": "src/photo/psuedexl.png",
         "coments": 9,
-        "price": 18900,
+        "price": 9900,
         "quant": 6
     },
     {
@@ -130,7 +130,7 @@
         "model": "Slipstream Neverworn III",
         "coments": 81,
         "img": "src/photo/sn3.png",
-        "price": 14999,
+        "price": 8500,
         "quant": 6
     },
     {
