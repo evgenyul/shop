@@ -1,6 +1,6 @@
 <template>
     <div class="border rounded-md border-stone-200 p-2 bg-white hover:shadow-lg hover:cursor-pointer dark:bg-gray-800 dark:border-gray-700"> 
-        <img :src="prod.img" alt="">
+        <router-link :to="{name: 'show', params:{id: prod.id}}"><img :src="prod.img" alt=""></router-link>
         <h1 class="text-xl dark:text-white">Мужские кроссовки <span class="capitalize">{{prod.brand }}</span> {{ prod.model}}</h1>
         <h1 v-if="prod.newprice" class="text-gray-400"><span class="text-slate-500">Цена:</span> {{prod.newprice}} ₽ <span class="bg-red-100 text-red-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-red-900 dark:text-red-300 line-through">{{prod.price}} ₽</span></h1>
         <h1 v-else  class="text-gray-400"><span class="text-slate-500">Цена:</span> {{prod.price}} ₽</h1>
