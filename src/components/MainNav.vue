@@ -57,8 +57,8 @@
                 <svg class="w-5 h-5 lg:me-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
                   <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12.01 6.001C6.5 1 1 8 5.782 13.001L12.011 20l6.23-7C23 8 17.5 1 12.01 6.002Z"></path>
                 </svg>                  
-                <div class="rounded-full h-4 w-4 content-center justify-center font-md  absolute max-sm:left-3 max-sm:-top-1.5 -top-2 left-3  me-2.5 text-xs bg-red-700 text-white">
-                  6
+                <div v-if="favoriteItems.length" class="rounded-full h-4 w-4 content-center justify-center font-md  absolute max-sm:left-3 max-sm:-top-1.5 -top-2 left-3  me-2.5 text-xs bg-red-700 text-white">
+                  {{ favoriteItems.length }}
                 </div>
               </div>
               <span class="hidden sm:flex">Favorites</span>
@@ -78,7 +78,9 @@
                 <svg class="hidden sm:flex w-4 h-4 text-gray-900 dark:text-white ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
                   <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 9-7 7-7-7"/>
                 </svg> 
-                <div v-show="true" class="rounded-full h-4 w-4 content-center justify-center font-md  absolute max-sm:-left-2 max-sm:-top-4 -top-2.5 -left-16  me-2.5 text-xs bg-red-700 text-white">2</div>             
+                <div v-if="cartItems.length" class="rounded-full h-4 w-4 content-center justify-center font-md  absolute max-sm:-left-2 max-sm:-top-4 -top-2.5 -left-16  me-2.5 text-xs bg-red-700 text-white">
+                  {{ cartItems.length }}
+                </div>             
               </div>
 
             </button>
@@ -311,3 +313,34 @@
       </div>
     </nav>
 </template>
+
+<script setup>
+import { ref } from 'vue'
+
+const favoriteItems = ref([
+  {
+    id: 1,
+    itemId: 2
+  },
+  {
+    id: 2,
+    itemId: 17
+  },
+  {
+    id: 3,
+    itemId: 9
+  }
+])
+
+const cartItems = ref([
+  {
+    id: 1,
+    itemId: 2
+  },
+  {
+    id: 2,
+    itemId: 17
+  }
+])
+
+</script>
