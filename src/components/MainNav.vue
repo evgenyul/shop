@@ -209,14 +209,14 @@
     
             <div id="userDropdown1" class="hidden z-10 w-56 divide-y divide-gray-100 overflow-hidden overflow-y-auto rounded-lg bg-white antialiased shadow dark:divide-gray-600 dark:bg-gray-700">
               <ul class="p-2 text-start text-sm font-medium content-start text-gray-900 dark:text-white">
-                <li><a href="#" title="" class="inline-flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600flex py-3 px-2 gap-2 content-center">
+                <li><a href="#" title="" class="inline-flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600flex content-center">
                   <svg class="w-4 h-4 block align-middle" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18Zm0 0a9 9 0 0 0 5-1.5 4 4 0 0 0-4-3.5h-2a4 4 0 0 0-4 3.5 9 9 0 0 0 5 1.5Zm3-11a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"></path>
                   </svg>
                   My Account
                 </a></li>
                 <li>
-                  <a href="#" title="" class="inline-flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600flex py-3 px-2 gap-2 content-center">
+                  <a href="#" title="" class="inline-flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600flex content-center">
                     <svg class="w-4 h-4 block align-middle" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h1.5L8 16m0 0h8m-8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm.8-3H7.4M11 7H6.3M17 4v6m-3-3h6"></path>
                     </svg>
@@ -225,15 +225,15 @@
                 </li>
                 <li>
                   <a href="#" title="" class="inline-flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600">
-                    <svg class="w-4 h-4 block align-middleeVNhx7m5tjSVbfYQzDdT kbeH5ty3CtPKxXm5TXph K1PPCJwslha8GUIvV_Cr yHlultZNYA9toOP4bD_k eCx_6PNzncAD5yo7Qcic _Fwzcmilfk0R9LVuMadQw-4 h-4 block align-middle" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <svg class="w-4 h-4 block align-middle" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                       <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M9 8h10M9 12h10M9 16h10M5 8h0m0 4h0m0 4h0"></path>
                     </svg>
                     My Lists
                   </a>
                 </li>
                 <li>
-                  <a href="#" title="" class="inline-flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600__CB1NVTb04MHxDxK6Hw ay0ziTPUL4Ag5d1DkSY7 jCISvWkW5oStPH6Wrb_H neyUwteEn7DOg9pBSJJE Arr09YuldMaIsodz_BpF jePiShCVli4AXI2UmtvL MQMN74ivNmI6x68DZajA zhRMeqbg7JsftloqW_W6 MxG1ClE4KPrIvlL5_Q5x DpMPWwlSESiYA8EE1xKM xotVay0PVtR3gElm6ql5inline-flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600">
-                    <svg class="w-4 h-4 block align-middleeVNhx7m5tjSVbfYQzDdT kbeH5ty3CtPKxXm5TXph K1PPCJwslha8GUIvV_Cr yHlultZNYA9toOP4bD_k eCx_6PNzncAD5yo7Qcic _Fwzcmilfk0R9LVuMadQw-4 h-4 block align-middle" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                  <a href="#" title="" class="inline-flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600">
+                    <svg class="w-4 h-4 block align-middle" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8H5m12 0c.6 0 1 .4 1 1v2.6M17 8l-4-4M5 8a1 1 0 0 0-1 1v10c0 .6.4 1 1 1h12c.6 0 1-.4 1-1v-2.6M5 8l4-4 4 4m6 4h-4a2 2 0 1 0 0 4h4c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1Z"></path>
                     </svg>
                     My Wallet
@@ -289,7 +289,7 @@
         </div>
     
         <div id="ecommerce-navbar-menu-1" class="bg-gray-50 dark:bg-gray-700 dark:border-gray-600 border border-gray-200 rounded-lg py-3 hidden px-4 mt-4">
-          <ul class="text-gray-900 dark:text-white text-sm font-medium dark:text-white space-y-3">
+          <ul class="text-gray-900 dark:text-white text-sm font-medium space-y-3">
             <li>
               <a href="#" class="hover:text-primary-700 dark:hover:text-primary-500">Home</a>
             </li>
